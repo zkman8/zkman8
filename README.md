@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Algorithms at my final class in Georgia Tech's OMSCS program
+- 🌱 I’m currently studying for my AWS and CCNA certifications
 - 📫 How to reach me: zkman8@goldmanmail.net
 - 💬 Ask me about the books I'm currently reading
 
