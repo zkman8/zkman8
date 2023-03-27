@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently studying for my AWS and CCNA certifications
+- 🌱 I’m currently learning Ansible, Python, and Networking
 - 📫 How to reach me: zkman8@goldmanmail.net
 - 💬 Ask me about the books I'm currently reading
 
